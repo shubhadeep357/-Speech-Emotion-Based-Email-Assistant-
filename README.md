@@ -12,7 +12,6 @@
     * [Step-by-Step Installation](#step-by-step-installation)
     * [FFmpeg Setup (Crucial!)](#ffmpeg-setup-crucial)
 * [💡 Usage](#-usage)
-* [📂 Project Structure](#-project-structure)
 * [🧠 Machine Learning Models](#-machine-learning-models)
 * [🤝 Contributing](#-contributing)
 * [📄 License](#-license)
@@ -122,22 +121,6 @@ Replace this with your app screenshot:
 
 ---
 
-## 📂 Project Structure
-
-```
-your_project_root/
-├── app.py
-├── audio_utils.py
-├── emotion_classifier.py
-├── emotion_model.h5
-├── intent_extractor.py
-├── tone_rewriter.py
-├── requirements.txt
-└── .venv/
-```
-
----
-
 ## 🧠 Machine Learning Models
 
 - Emotion Detection: Uses MFCC + Keras model.
@@ -160,5 +143,5 @@ MIT License
 
 ## 📞 Contact
 
-Your Name - your.email@example.com  
-GitHub: [https://github.com/your-username/your-project-name](https://github.com/your-username/your-project-name)
+ Shubhadeep Saha - shubhadeepsaha357@gmail.com
+
