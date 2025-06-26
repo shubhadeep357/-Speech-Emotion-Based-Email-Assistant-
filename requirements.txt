@@ -1,0 +1,12 @@
+librosa
+numpy
+pyaudio
+sounddevice
+tensorflow
+scikit-learn
+transformers
+torch
+speechrecognition
+nltk
+textblob
+streamlit
